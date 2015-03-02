@@ -1,6 +1,3 @@
-git config --global user.name "Rhett Rogers"
-git config --global user.email "serenade.xs@gmail.com"
-git config --global push.default simple
 mkdir -p ~/.git_template/hooks
-git config --global init.templatedir ~/.git_template
 ssh-keygen
+cp ./.gitconfig ~/
