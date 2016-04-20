@@ -1,3 +1,0 @@
-mkdir -p ~/.git_template/hooks
-ssh-keygen
-cp ./.gitconfig ~/
